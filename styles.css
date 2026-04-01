@@ -80,18 +80,9 @@ img {
   align-self: start;
 }
 
-.header-illustration .placeholder {
+.header-illustration img {
   width: 150px;
-  height: 120px;
-  background: #f0f0f0;
-  border: 1px solid #ddd;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 0.75rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: #888;
+  height: auto;
 }
 
 /* ===== LEFT NAV ===== */
