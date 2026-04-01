@@ -184,7 +184,7 @@ img {
 }
 
 /* Row 5 */
-.card-blog {
+.card-art {
   grid-column: 1 / 2;
   grid-row: 5;
 }
@@ -340,7 +340,7 @@ img {
   .card-contact-1,
   .card-books-2,
   .card-image-center,
-  .card-blog,
+  .card-art,
   .card-prose-1,
   .card-about-1,
   .card-prose-2,
